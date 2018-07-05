@@ -1,3 +1,13 @@
+sed 's/old/new/'  <old.txt   > new.txt   # 替换字符串
+sed 's/tra*/(&) &/' < old.txt      # &表示匹配的模式， 两个&表示重复一次匹配的模式
+
+
+
+
+
+
+
+-----
 <!---title:Shell及VIM命令小技巧-->
 <!---keywords:工具-->
 <!---date:old-->
