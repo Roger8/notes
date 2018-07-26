@@ -21,3 +21,5 @@ del - 删除对象使用如下
 time.clock()
 
 GIL(http://wiki.python.org/moin/GlobalInterpreterLock) - GIL is a daemon
+
+## Cart算法中的GINI指数(http://blog.sina.com.cn/s/blog_14a25e82b0102xc6l.html)
